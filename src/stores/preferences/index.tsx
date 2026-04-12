@@ -89,7 +89,7 @@ export const usePreferencesStore = create(
       enableDetailsModal: true,
       enableImageLogos: true,
       enableCarouselView: true,
-      enableMinimalCards: false,
+      enableMinimalCards: true,
       forceCompactEpisodeView: false,
       sourceOrder: [],
       enableSourceOrder: false,
